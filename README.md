@@ -6,8 +6,8 @@ Slicing design dari Figma ke HTML, CSS, dan JavaScript.
 
 |          |           |
 | -------- | --------- |
-| **Nama** | Nama Kamu |
-| **NRP**  | 00000000  |
+| **Nama** | Muhammad Nafis Al Khalifi |
+| **NRP**  | 5053251019  |
 
 ## Link Figma
 
