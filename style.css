@@ -72,3 +72,32 @@
     font-weight: 600;
     letter-spacing: 1px;
 }
+
+.tentang {
+    background-color: #ffffff;
+    padding: 50px 60px;
+}
+
+.tentang-title {
+    font-size: 2.8rem;
+    font-weight: 800;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+}
+
+.tentang-content {
+    display: flex;
+    gap: 50px;
+    justify-content: space-between;
+}
+
+.card {
+    flex: 1;
+}
+
+.card p {
+    font-size: 1.15rem;
+    line-height: 1.5;
+    font-weight: 600;
+    text-align: left;
+}
